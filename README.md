@@ -3,5 +3,5 @@
 > status iniciando estudo
 
 ```
-npn install
+node app.js
 ```
